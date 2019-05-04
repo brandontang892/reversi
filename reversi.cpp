@@ -1,31 +1,3 @@
-/////////////////////////////////////////////////////////////////////////
-//
-// Student Info
-// ------------
-//
-// Name : Brandon Tang
-// St.# : 301385405
-// Email: brandon_tang_2@sfu.ca
-//
-//
-// Name : Weihang Zheng
-// St.# : 301385458
-// Email: weihang_zheng@sfu.ca
-//
-// Statement of Originality
-// ------------------------
-//
-// All the code and comments below are my own original work. For any non-
-// original work, I have provided citations in the comments with enough
-// detail so that someone can see the exact source and extent of the
-// borrowed work.
-//
-// In addition, I have not shared this work with anyone else, and I have
-// not seen solutions from other students, tutors, websites, books,
-// etc.
-//
-/////////////////////////////////////////////////////////////////////////
-
 #include <iostream>
 #include <vector>
 using namespace std;
